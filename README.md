@@ -1,2 +1,2 @@
-# tim-sort
-So guys im working on the algo sorting algo where it can be the fastest algo i have to do some optimization in it. i will make sure it is fast as built in sorting funtion in python all tho the python original sorting algo use the tim sort i guess correct me if iam wrong but im working on it to make it even more faster wish me good luck
+Explore this robust collection of standard and custom-created Python algorithms, designed to address complex problems with innovative solutions. Perfect for developers and students seeking to expand their knowledge and harness the power of tailored algorithmic strategies. Python algorithms aimed at solving complex problems efficiently, ideal for developers and students eager to deepen their understanding of Python coding and algorithmic design. 
+Python algorithms aimed at solving complex problems efficiently, ideal for developers and students eager to deepen their understanding of Python coding and algorithmic design.
